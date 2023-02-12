@@ -1,0 +1,9 @@
+.ButtonOut{
+    border: 2px solid black;
+    border-radius: 10px;
+    outline: none;
+    width:  max-content;
+    padding: 5px 10px;
+    background:white;
+    margin: auto;
+}
